@@ -1,0 +1,30 @@
+{
+  "name": "salmon-cookies",
+  "version": "1.0.0",
+  "description": "A website for pat's \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B\u001b[P\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D  Pet Bakery\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davmartinez109/salmon-cookies.git"
+  },
+  "keywords": [
+    "cat",
+    "kitten",
+    "dog",
+    "puppy",
+    "treat",
+    "food.",
+    "salmon",
+    "seattle"
+  ],
+  "author": "David Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davmartinez109/salmon-cookies/issues"
+  },
+  "homepage": "https://github.com/davmartinez109/salmon-cookies#readme"
+}
