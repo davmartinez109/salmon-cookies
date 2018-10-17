@@ -199,7 +199,7 @@ var products = [
     },
     {
         image: "Barcelona.jpg",
-        title: "BarceloNA 2018-19 Home JERSEY",
+        title: "Barcelona 2018-19 Home JERSEY",
         price: "150",
         sizes: ["S", "M", "L", "XL"],
         description: "This Jersey features any number and name you want",
